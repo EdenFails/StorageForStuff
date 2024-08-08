@@ -1,5 +1,5 @@
 joinme
-wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b:54427
+wrld_4b341546-65ff-4607-9d38-5b7f8f40513296783~group(grp_80c07607-0e3b-4673-bbaa-d0b5b3b4dfc0)~groupAccessType(public)~region(eu)
 toast
 Test 1
 Test 2 OwO UwU
