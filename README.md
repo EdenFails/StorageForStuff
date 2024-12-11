@@ -1,4 +1,2 @@
 Please dont abuse stuff.
-
-also did you like all the FuCk string obfuscation
-Simple but i like it :<
+I know you keep breaking it so amma just keep remaking it
