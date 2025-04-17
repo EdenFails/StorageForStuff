@@ -1,2 +1,5 @@
-Please dont abuse stuff.
-I know you keep breaking it so amma just keep remaking it
+Well done you found my github
+Enjoy it skids :)
+
+I aint saying my stuff is great but it works
+Im just doing this for fun
