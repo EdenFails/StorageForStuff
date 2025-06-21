@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Important Reminder</title>
+  <style>
+    body {
+      background: radial-gradient(circle at center, #1a1a2e, #0f0f1f);
+      color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      overflow: hidden;
+      font-family: 'Cinzel Decorative', cursive;
+    }
+
+    h1 {
+      font-size: 5em;
+      text-shadow: 
+        0 0 5px #f0f, 
+        0 0 10px #0ff, 
+        0 0 20px #0f0, 
+        0 0 40px #ff0;
+      animation: wiggle 2s infinite ease-in-out;
+      transform: rotate(-2deg);
+      background: linear-gradient(45deg, #ff0055, #00ffff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    @keyframes wiggle {
+      0%, 100% { transform: rotate(-2deg) scale(1); }
+      25% { transform: rotate(2deg) scale(1.05); }
+      50% { transform: rotate(-1deg) scale(1.1); }
+      75% { transform: rotate(1deg) scale(1.05); }
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <h1>Call your dad</h1>
+</body>
+</html>
